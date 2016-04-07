@@ -1,0 +1,6 @@
+// store all the sentences as indexs of and array
+// like this ["Onwaba sent: 100MB this week.", Luxolo sent: 400MB of data.",]
+//use map to map data
+//use match to get the name
+//use match for the digits.
+//loop through your map to get the max
