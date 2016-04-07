@@ -16,3 +16,9 @@
 //fourth array
  var cost4 =  '“Around 150MB. I have the receipts if you need more precise figures.”'.match(/\d+/g);
  console.log(cost4);
+
+//empty array to push all my costs
+var num = [];
+//pushing them
+num.push(cost1, cost2, cost3, cost4);
+console.log(num);
